@@ -68,6 +68,13 @@ Apart from that, XSStrike has crawling, fuzzing, parameter discovery, WAF detect
 - Powered by [Photon](https://github.com/s0md3v/Photon), [Zetanize](https://github.com/s0md3v/zetanize) and [Arjun](https://github.com/s0md3v/Arjun)
 - Payload Encoding
 
+# new things i added:
+
+- a list of 6k+ payloads 
+- integration with arjun
+- general improvement in .py files
+- and much more, check it out to find out more
+
 ### Installation
 Enter the following commands one by one in terminal:
 ```
