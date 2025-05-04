@@ -31,7 +31,7 @@
   <a href="https://github.com/s0md3v/XSStrike#gallery">Gallery</a>
 </p>
 
-# Hello, this is my XSStrike++, a much improved version of the original XSStrike, I'm giving my life for this, MADE IN TERMUX!
+# Hello, this is my XSStrike++, a much improved version of the original XSStrike, supports Windows, Linux and termux
 
 Whoever wants to help me my email is:
 
