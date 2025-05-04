@@ -31,6 +31,14 @@
   <a href="https://github.com/s0md3v/XSStrike#gallery">Gallery</a>
 </p>
 
+# Hello, this is my XSStrike++, a much improved version of the original XSStrike, I'm giving my life for this, MADE IN TERMUX!
+
+Whoever wants to help me my email is:
+
+deathiswatchingyou937@gmail.com 
+
+Here is the original description of XSStrike:
+
 XSStrike is a Cross Site Scripting detection suite equipped with four hand written parsers, an intelligent payload generator, a powerful fuzzing engine and an incredibly fast crawler.
 
 Instead of injecting payloads and checking it works like all the other tools do, XSStrike analyses the response with multiple parsers and then crafts payloads that are guaranteed to work by context analysis integrated with a fuzzing engine.
@@ -63,14 +71,15 @@ Apart from that, XSStrike has crawling, fuzzing, parameter discovery, WAF detect
 ### Installation
 Enter the following commands one by one in terminal:
 ```
-git clone https://github.com/s0md3v/XSStrike
-cd XSStrike
-pip install -r requirements.txt --break-system-packages
+https://github.com/Death-hell/XSStrikeButBetter-
+cd XSStrikeButBetter-
+chmod +x setup.sh
+./setup.sh
 ```
 
 Now, XSStrike can be used at any time as follows:
 ```
-python xsstrike.py
+python xsstrike++.py
 ```
 
 ### Documentation
