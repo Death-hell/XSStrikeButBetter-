@@ -127,7 +127,9 @@ Ways to contribute
 - Help me document the code
 - Spread the word
 
-Licensed under the GNU GPLv3, see [LICENSE](LICENSE) for more information.
+Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+Everyone is permitted to copy and distribute verbatim copies
+of this license document, but changing it is not allowed.
 
 The WAF signatures in `/db/wafSignatures.json` are taken & modified from [sqlmap](https://github.com/sqlmapproject/sqlmap). I extracted them from sqlmap's waf detection modules which can found [here](https://github.com/sqlmapproject/sqlmap/blob/master/waf/) and converted them to JSON.\
 `/plugins/retireJS.py` is a modified version of [retirejslib](https://github.com/FallibleInc/retirejslib/).
