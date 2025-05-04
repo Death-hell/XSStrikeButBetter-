@@ -135,3 +135,17 @@ The WAF signatures in `/db/wafSignatures.json` are taken & modified from [sqlmap
 
 
 Crédits: XSStrike (Harsh Jaiswal) + Arjun
+
+more:
+
+General improvements, most of the original XSStrike .py files were broken in the .py files like isolated use of if and functions that are not used in relation to the original XSStrike, the original has some flaws that this one fixed
+
+6 thousand mutant payloads incorporated especially for the "Fuzzing*" mode
+
+Integrated Arjun
+
+The headers are randomized for each use
+
+And this one seems to be more compatible with python 3.12.X
+
+So far I saw this, I did a personal analysis And it seems that there is a file called "arjun_xsstrike.py" that joins the two automatically Arjun looks for the parameters and XSStrike uses them
