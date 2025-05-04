@@ -1,0 +1,5 @@
+tld
+fuzzywuzzy
+requests
+termcolor
+bs4
